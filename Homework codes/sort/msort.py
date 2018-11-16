@@ -5,7 +5,7 @@ def merge_sort(a):
     left=merge_sort(a[:num])
     right=merge_sort(a[num:])
    
-    print left,right
+    print left, right
     return merge(left, right)
 
 def merge(left,right):
