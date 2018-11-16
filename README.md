@@ -1,3 +1,6 @@
-# algoritmStf
-Analysis and design of algorithm course by Tim Roughgarden  in Stanford.
-The codes are my solution for the coures "Analysis and Design of Algorithm" on coursera.
+# Coursera course: Algorithms: Design and Analysis
+Analysis and design of algorithm course by Tim Roughgarden in Stanford.
+
+The ```Homework codes``` folder contains files of my solutions for the coures homeworks.
+
+The ```Notes``` folder contains files of the lecture notes.
